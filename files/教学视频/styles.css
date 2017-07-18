@@ -2393,3 +2393,12 @@
   width:56px;
   word-wrap:break-word;
 }
+#u891 {
+  position:absolute;
+  left:30px;
+  top:110px;
+  width:300px;
+  height:438px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
